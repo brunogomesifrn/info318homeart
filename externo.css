@@ -38,3 +38,16 @@ background-color:#8B0000; ;
 float:right;
 
 }
+.entrar { 
+	padding: 20px 70px;
+	background: #72120B;
+	color: #fff; font: 20px 'Times New Roman';
+	display: table; transition: all 0.5s;
+} 
+.rodape { 
+	padding: 70px 70px;
+	background: #72120B;
+	color: #fff; font: 20px 'Times New Roman';
+	height: 300px;
+	text-align: center;
+} 
