@@ -24,3 +24,17 @@ width: 600px;
 height: 350px;
 border: 1px solid black;
 }
+.c1
+{
+width: 500px;
+float: left;
+margin: 0 auto;
+
+}
+.c2
+{ margin: 0 auto;
+width: 500px;
+background-color:#8B0000; ;
+float:right;
+
+}
