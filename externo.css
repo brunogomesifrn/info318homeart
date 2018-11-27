@@ -51,3 +51,12 @@ float:right;
 	height: 300px;
 	text-align: center;
 } 
+.comprar { 
+	padding: 70px 70px;
+	background: #72120B;
+	color: #fff; font: 20px 'Times New Roman';
+	height: 400px;
+	width: 900px;
+	text-align: center;
+
+} 
