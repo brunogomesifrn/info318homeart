@@ -52,8 +52,9 @@ float:right;
 	padding: 70px 70px;
 	background: #72120B;
 	color: #fff; font: 20px 'Times New Roman';
-	height: 400px;
+	height: 450px;
 	width: 900px;
 	text-align: center;
+	margin-left: 5px; 
 
 } 
